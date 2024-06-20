@@ -1,8 +1,5 @@
-- 📖 Undergrad
-- 😢 Amateur
-- 🗂 Sucks at algo's and DS
+
 <details>
-  <summary>Stuff i kinda know</summary>
   Java<br>
   HTML<br>
   CSS<br>
