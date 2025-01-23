@@ -1,10 +1,4 @@
-
-<details>
-  Java<br>
-  HTML<br>
-  CSS<br>
-  Python<br>
- </details>
+bangin' rocks together
  
 <!---
 DeloranV/DeloranV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
